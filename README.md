@@ -1,4 +1,4 @@
-### CODE - REVIEW
+### CODE - REVIEW : MÉTODO `AulasDisponibles`
 ### Violación 1: Nombres de variables poco descriptivos
 
 **Descripción**: La variable `x` no tiene un nombre significativo que indique su función en el código.
